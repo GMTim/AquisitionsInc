@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Human | Ranger | Outlander |  |
+| Human | Ranger | Outlander | Loremonger |
 
 ### Attributes
 
@@ -17,3 +17,10 @@
 | Hit Points | Hit Dice | Armor Class |
 |:--|:--|:--|
 | 11 | 1d10 | 15 |
+
+### Proficiencies
+#### Languages:
+- Common
+- Draconic
+#### Tools:
+- Leatherworkers Tools
