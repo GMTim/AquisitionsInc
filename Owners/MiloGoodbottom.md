@@ -29,5 +29,10 @@
 - Herbalism Kit
 - Brewer’s Supplies
 
+### Fun Facts:
+- When Milo changes into his wild shape form, the process is painful and squelchy and usually leaves those around him feeling queasy.
+- Milo has found a large copse of trees inhabited by tree sloths, he now uses it as his sanctuary.
+- Milo has taken in a feral cat who thinks it’s much tougher then it is. He named it [Shadow](../Companions/Shadow.md).
+
 ---
 [Back](./)
