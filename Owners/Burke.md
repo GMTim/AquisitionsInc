@@ -29,5 +29,9 @@
     - Finger Cymbals
     - Demons Horn
 
+### Fun Facts:
+- Burke is known for his cutting insult, “You’re not the sharpest [piercer](https://www.aidedd.org/dnd/monstres.php?vo=piercer) in the cave.”
+- Burke has made enemies with a minor nobel named [Biff](../NPCs/Biff.md). [Biff](../NPCs/Biff.md) took on a free lance mission with Acquisitions Inc, and failed to complete it. [Biff](../NPCs/Biff.md) paid Burke to claim it wasn’t his fault the mission went wrong. Burke took the money then threw [Biff](../NPCs/Biff.md) under the carriage. They have been enemies ever since.
+
 ---
 [Back](./)
