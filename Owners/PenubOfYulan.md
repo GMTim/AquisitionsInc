@@ -1,15 +1,16 @@
 # Penub Of Yulan
 
 ### Basic Info
-- _Race_: Human
-- _Class_: Ranger
-- _Background_: Outlander
+| Race | Class | Background | Position |
+|:--|:--|:--|:--|
+| Human | Ranger | Outlander |  |
+
+### Attributes
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|:--|:--|:--|:--|:--|:--|
+| 16(+3) | 13(+1) | 12(+1) | 10(0) | 15(+2) | 8(-1) |
 
 ### Stats
-- _Hit Points_: 11
-- _Hit Dice_: 1d10
-
-
-| Str | Con |
-|:--|:--|
-| 16(+3) | 13(+1) |
+| Hit Points | Hit Dice | Armor Class |
+|:--|:--|:--|
+| 11 | 1d10 | 15 |
