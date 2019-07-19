@@ -30,5 +30,11 @@
 - Gaming Set
     - Dragonchess Set
 
+### Fun Facts:
+- When in her wild shape form, on her feathers or fur, Star has a recognizable silhouette of [Omin Dran](http://www.acq-inc.com/our-company/staff).
+- Star has taken a private park in the nice part of town as her sanctuary. It’s called [Starscape Park](../Locations/StarscapePark.md) and is accessible to anyone for a fee.
+- Star has taken in a small owlbear chickcub who she named [Ursa Minor](../Companions/UrsaMinor.md). It seems to always have a cold.
+
+
 ---
 [Back](./)
