@@ -2,7 +2,7 @@
 
 ### Basic Info
 | Race | Class | Background | Position |
-|:--|:--|:--|:--|
+|:---|:----|:---------|:-------|
 | Human | Ranger | Outlander |  |
 
 ### Attributes
