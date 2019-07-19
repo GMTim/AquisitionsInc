@@ -5,6 +5,7 @@
 - [Penub of Yulan](PenubOfYulan.md) - Loremaster
 - [Star Moon Whisper](StarMoonWhisper.md) - Decisionist
 - [Thol Deepwood](TholDeepwood.md) - Secratarian
+- [Valonor Kharagon](ValonorKharagon.md) - Occultant
 
 ---
 [Back](../)
