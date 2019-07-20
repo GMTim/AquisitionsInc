@@ -11,3 +11,4 @@ We are currently looking for help expanding our roster of experienced dungeoneer
 - [Companions](Companions)
 - [Locations](Locations)
 - [Notable Persons/Contractors](NPCs)
+- [Organizations](Organizations)
