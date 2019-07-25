@@ -9,6 +9,7 @@ We are currently looking for help expanding our roster of experienced dungeoneer
 ## Franchise Information
 - [Owners](Owners)
 - [Companions](Companions)
+- [History](History)
 - [Locations](Locations)
 - [Notable Persons/Contractors](NPCs)
 - [Organizations](Organizations)
