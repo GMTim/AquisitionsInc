@@ -10,7 +10,7 @@
 
 | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 |:--|:--|:--|:--|:--|:--|
-| 16(+3) | 10(0) | 14(+2) | 10(0) | 10(0) | 15(+2) |
+| 16(+3) | 10(0) | 14(+2) | 10(0) | 12(+1) | 14(+2) |
 
 ### Stats
 
