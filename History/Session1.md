@@ -7,5 +7,17 @@ As our preparations were nearing completion, Godiva accidentally triggered a tra
 
 With Godiva safely back in the tavern, muttering something about javelins and Penub possibly being hurt, the rest of the party grabbed their adventuring gear and went down through the cellar to find Penub. What we found at the floor of the tavern was Penub’s javelin, a pool of blood, and the trail of a medium-sized creature being dragged deeper into the cavern. Burke passed on some bardic inspiration, and we all began to follow the trail. Next time, we’ll find out where it leads.
 
+## Votes
+A single vote was taking to determine what the franchise should be called. The vote went to “The Eyes of the Beholder”.
+
+| Name | Votes |
+|:--|:--|
+| Eye of Beholder | I |
+| Gainful EnterprEYES | I |
+| The Beholders Chosen |  |
+| The Eyes of the Beholder | IIIII |
+| We are Watching You | I |
+| World Watchers | II |
+
 ---
 [Back](./)
