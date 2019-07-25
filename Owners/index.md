@@ -1,5 +1,6 @@
 # Owners
 - [Burke](Burke.md) - Documancer
+- [Johannus](Johannus.md)
 - [Milo Goodbottom](MiloGoodbottom.md) - Cartographer
 - [Orel Marsk](OrelMarsk.md) - Hordsperson 
 - [Penub of Yulan](PenubOfYulan.md) - Loremaster
