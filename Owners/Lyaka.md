@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Earth Genasi | Barbarian | Sage | Intern |
+| Earth Genasi | Barbarian | Sage | Obviator |
 
 ### Attributes
 
