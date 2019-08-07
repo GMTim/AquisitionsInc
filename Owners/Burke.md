@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Tiefling | Bard | Sage | Documancer |
+| Tiefling | Bard | Sage | [Documancer](../Documents/Documancer.pdf) |
 
 ### Attributes
 

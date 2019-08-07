@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Ghostwise Halfling | Druid | Acolyte | Cartographer |
+| Ghostwise Halfling | Druid | Acolyte | [Cartographer](../Documents/Cartographer.pdf) |
 
 ### Attributes
 

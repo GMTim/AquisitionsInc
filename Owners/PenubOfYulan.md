@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Human | Ranger | Outlander | Loremonger |
+| Human | Ranger | Outlander | [Loremonger](../Documents/Loremonger.pdf) |
 
 ### Attributes
 

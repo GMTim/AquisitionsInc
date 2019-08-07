@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Moon Elf | Druid | Noble | Decisionist |
+| Moon Elf | Druid | Noble | [Decisionist](../Documents/Decisionist.pdf) |
 
 ### Attributes
 
