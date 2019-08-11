@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Human | Sorcerer | Criminal | Hordsperson |
+| Human | Sorcerer | Criminal | [Hoardsperson](../Documents/Hoardsperson.pdf) |
 
 ### Attributes
 

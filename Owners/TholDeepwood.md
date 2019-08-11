@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Human | Wizard | Sage | Secratarian |
+| Human | Wizard | Sage | [Secretarian](../Documents/Secretarian.pdf) |
 
 ### Attributes
 
