@@ -1,3 +1,8 @@
+# Employees
+- [Bolt](Bolt.md) _Former_
+- [Godiva Cornwallis](GodivaCornwallis.md)
+- [Zog Blackblade](ZogBlackblade.md)
+
 # NPCs
 - [Biff](Biff.md)
 - [Dallwort](Dallwort.md)
