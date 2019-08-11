@@ -13,7 +13,7 @@ The kobolds also mentioned that they had been trapped in this cave by wizards an
 
 In the meantime, we turned our efforts toward making our franchise profitable. I, Valonor Kharagon, do not know how all of us spent this time, but I do know that Penub and Orel set about the work of refining our newly-acquired ore; Burke, [Steve’s Character], and I worked on running the franchise, and most of the others looked for other (hopefully not illegal) ways to turn a profit.
 
-We seem to be off to a good start. What started as poor luck for Penub became excellent luck for us all, and we now have a lucrative arrangement with the kobolds, covered well by the facts that we run a tavern (thus, buying a good deal of food isn’t suspicious) and that Penub does our smelting out of town. With luck, we will soon find ourselves running a highly-profitable franchise.
+We seem to be off to a good start. What started as poor luck for Penub became excellent luck for us all, and we now have a lucrative arrangement with the kobolds, covered well by the facts that we run a tavern (thus, buying a good deal of food isn’t suspicious) and that Penub does our smelting in the secret basement smelter we acquired. With luck, we will soon find ourselves running a highly-profitable franchise.
 
 ---
 [Back](./)
