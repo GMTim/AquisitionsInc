@@ -12,4 +12,4 @@
 - [Valonor Kharagon](ValonorKharagon.md) - Occultant
 
 ---
-[Back](../)
+[Back](../TheEyesOfTheBeholder)
