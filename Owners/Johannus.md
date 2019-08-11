@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Human | Rouge | Charlatan | Intern |
+| Human | Rouge | Charlatan | Owner |
 
 ### Attributes
 
