@@ -1,5 +1,5 @@
 # Session 3
-_August 22 2019_
+_August 21 2019_
 
 Life is starting to get exciting in Athkatla! There are several events going on at the moment, and since a chronological record may make the noteworthy events difficult to follow, I have decided to record these events categorically.
 
