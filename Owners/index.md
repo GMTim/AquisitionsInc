@@ -1,6 +1,7 @@
 # Owners
+- [Balasar Myastan](BalasarMyastan.md) - Owner
 - [Burke](Burke.md) - [Documancer](../Documents/Documancer.pdf)
-- [Johannus](Johannus.md)
+- [Johannus](Johannus.md) - Owner
 - [Lyaka](Lyaka.md) - [Obviator](../Documents/Obviator.pdf)
 - [Milo Goodbottom](MiloGoodbottom.md) - [Cartographer](../Documents/Cartographer.pdf)
 - [Orel Marsk](OrelMarsk.md) - [Hoardsperson](../Documents/Hoardsperson.pdf)
