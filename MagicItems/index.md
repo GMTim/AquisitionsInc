@@ -4,4 +4,4 @@
 - [Staff Of Fire](StaffOfFire.md)
 
 ---
-[Back](../)
+[Back](../TheEyesOfTheBeholder)
