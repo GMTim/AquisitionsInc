@@ -31,5 +31,8 @@
 - Penub has learned that being armed in high societal gatherings isn’t always the best strategy. So he’s taught himself to turn the rackets used in “Wet Dwarf, the game of Wet Dwarves” into deadly hand and battle axes.
 - Penub likes to commonly visit a quaint settlement nearby called [Feildsholme](../Locations/Feildsholme.md), he also likes to spend most of his money there.
 
+### Magic Items:
+- [Driftglobe](../MagicItems/Driftglobe.md)
+
 ---
 [Back](./)
