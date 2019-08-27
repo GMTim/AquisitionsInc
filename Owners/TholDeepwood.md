@@ -28,7 +28,7 @@
 - Thol was trained by the halfling master enchanter [Reni the Hare](../NPCs/ReniTheHare.md). [Reni](../NPCs/ReniTheHare.md) has an odd fondness for carrots, and as an apprentice Thol ate a lot of carrots. He now doesn’t like them much.
 
 ### Magic Items:
-- [Staff Of Fire](../MagicItem/StaffOfFire.md)
+- [Staff Of Fire](../MagicItems/StaffOfFire.md)
 
 ---
 [Back](./)
