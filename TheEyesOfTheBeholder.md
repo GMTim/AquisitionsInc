@@ -4,6 +4,7 @@
 - [History](History)
 - [Locations](Locations)
 - [Notable Persons/Contractors](NPCs)
+- [Magic Items](MagicItems)
 - [Organizations](Organizations)
 
 # Background

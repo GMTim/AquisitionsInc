@@ -35,6 +35,8 @@
 - Star has taken a private park in the nice part of town as her sanctuary. It’s called [Starscape Park](../Locations/StarscapePark.md) and is accessible to anyone for a fee.
 - Star has taken in a small owlbear chickcub who she named [Ursa Minor](../Companions/UrsaMinor.md). It seems to always have a cold.
 
+### Magic Items:
+- [Ring Of Regeneration](../MagicItems/RingOfRegeneration.md)
 
 ---
 [Back](./)
