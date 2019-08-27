@@ -8,6 +8,7 @@ You have resistance to fire damage while you hold this staff. The staff has 10 c
 
 ### Spells
 #### Burning Hands
+
 **1st-level evocation**
 _Casting Time:_ 1 action
 _Range:_ Self (15-foot cone)
@@ -17,6 +18,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 #### Fireball
+
 **3rd-level evocation**
 _Casting Time:_ 1 action
 _Range:_ 150 feet
@@ -26,6 +28,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 #### Wall of Fire
+
 **4th-level evocation**
 _Casting Time:_ 1 action
 _Range:_ 120 feet
