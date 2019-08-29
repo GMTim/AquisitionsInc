@@ -1,4 +1,5 @@
 # Histories
+- [Session 4](Session004.md) August 28th 2019
 - [Session 3](Session003.md) August 21th 2019
 - [Session 2](Session002.md) August 07th 2019
 - [Session 1](Session001.md) July 24th 2019
