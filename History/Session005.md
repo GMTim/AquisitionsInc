@@ -1,0 +1,19 @@
+# Session 5
+_September 11 2019_
+
+Our day started normally enough. Having learned how to deal with the magical carrots and the polymorphed people/rabbits, we set about gathering as many rabbits and carrots as we could. We got the locals to bring their carrots and rabbits to our tavern, and we started a bonfire in front of it. As we started burning the carrots, Balasar made a carrot stew aromatic enough to attract all the rabbits in the area, some of which reacted to Reni’s cure by turning back into their humanoid selves.
+
+The curing and burning went well all day, despite Reni the Hare’s warning about a “master carrot,” but that evening, the remaining carrots merged together and formed a giant, swarming carrot monster. We assaulted the carrot monster with magic and weaponry, but it survived long enough to attack and engulf me and to demand that I join it. I resisted as long as I could, but I soon fell unconscious. I remember regaining consciousness briefly, while still engulfed in the carrot monster, only to black out again, and that’s all I remember from our clash with the Master Carrot.
+
+[For a more full account of Kharagon’s near-death experience, I will need to drop out of character. When the carrot monster engulfed him, it must have dealt a good deal of damage to him, and a little extra damage from some largely unavoidable friendly fire took him the rest of the way down to 0 HP. For his first Death Saving Throw, I rolled a 2, earning him his first Failure. Burke gave him Bardic Inspiration, but his second Death Saving Throw was a 4, and the Bardic Inspiration only added 1. I activated his new Divine Favor ability. However, the two d4s that I got from the Divine Favor both came out as 1s.
+
+With zero successes and two failures, one of which seemed to be called for by the gods, I was resigned to let my character die. I figured that if Bahamut, my character’s deity, wanted Kharagon to die, I could live with that. I’d just make a new character, and we’d move on from there. However, Kharagon’s life was saved at the last minute by a Healing Word from Jacquelin’s character, Star Moonwhisper.
+
+Still, Kharagon failed another saving throw or two and transformed into what I assume to be his were-rabbit hybrid form. Under the mental control of the Master Carrot, the were-rabbit attacked Penub of the Yulan. After the Master Carrot was brought down by a wall of fire cast by Thol, the were-rabbit was free from the mind control. Kharagon still wasn’t fully himself, so the were-rabbit fled instead of facing off against nine potentially-hostile adventurers. Many of the other franchise owners gave chase, but all were soon left behind except Star. In the form of a deer, she tried to stop the were-rabbit by blocking it with her horns, but this failed, and the were-rabbit tried to bite her and also failed. Star’s next tactic was to turn into a rabbit, grab onto the were-rabbit’s back, and try to soothe it, but she couldn’t quite hold on, and the were-rabbit ultimately slipped away from her, dashed out of town, and vanished into the woods.]
+
+I woke up in the forest, still wearing my armor with bits of carrot stuck to it, with no memory of how I got there. If I had to guess, I’d say that I probably transformed into a were-rabbit mid-combat. Now I desperately need to talk to Reni the Hare to learn how to manage my condition. Once I’ve determined that I’m safe around other people, I’ll return to the tavern, find out how much damage I’ve done, and learn what else happened while I was unconscious.
+
+After that, I suppose we’ll go back to running the franchise as normal. As we were curing rabbits and burning carrots, business was booming. I expect we’ll have a decent month, financially speaking. That fight must have been pretty rough, but all’s well that ends well, and that money will almost certainly help us deal with whatever lies in store for us.
+
+---
+[Back](./)
