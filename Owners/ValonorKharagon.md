@@ -4,7 +4,7 @@
 
 | Race | Class | Background | Position |
 |:--|:--|:--|:--|
-| Golden Dragonborn | Paladin | Noble | [Occultant](../Documents/Occultant.pdf) |
+| Golden Dragonborn | Paladin | Noble | Former Owner |
 
 ### Attributes
 
