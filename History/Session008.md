@@ -1,0 +1,19 @@
+# Session 8
+_October 16 2019_
+
+On the morning after the tiger attack, most of the owners set about the work of cleaning up and repairing the damage. While Star Moonwhisper went to hire a carpenter to repair the fire damage and Penub of the Yulan was cleaning up inside, Balasar tried to dispose of Valonor Kharagon’s body by burning it in the middle of the street. The corpse and the fire attracted attention, including the attention of a pair of guards. The guards mistakenly guess that Balasar had murdered Kharagon, and wanted to take him in for questioning. Balasar resisted arrest, unsuccessfully at first. The guards bind Balasar’s hands, but Balasar blasted one of them with his Dragonborn Breath Weapon. Burke conjured an illusion of a thundercloud around the combatants, imposing disadvantage on everyone’s melee attacks. Despite this disadvantage, Balasar managed to knock the blasted guard unconscious with unarmed attacks and also injure the second. Burke dropped the illusion and distracted the remaining guard by attempting to tend to his wound. On his next turn, Balasar knocked out the other guard, and Burke took the two guards, Kharagon’s corpse, and one of the mechanical tigers’ heads to the local authorities. He explained that we had been attacked by mechanical tigers, who killed Kharagon, and that when the guards came to investigate, “some ruffian” knocked them unconscious.
+
+Later that day, the Eyes of the Beholder were approached by a goblin in dark clothing, wearing a plaque that reads “Not A Monster.” He identified himself as Grixis, a wizard who had been sent from the headquarters of Acquisitions Inc. in Waterdeep to help deal with the “personnel issue” of both Lyaka and Johannus being on Extended Leave. Now that Kharagon is on “Extra Extended Leave,” it’s probably safe to say that Grixis will be with us until he goes on leave as well.
+
+That evening, Star returned and reported that the carpenters were all, unfortunately, having a convention of some kind and were presently unavailable, but she had heard rumors of mysterious lights appearing outside of town.
+
+Also, it should be noted that Thol’s Staff of Fire has begun glowing, standing upright on its own and emitting smoke.
+
+The second week of the third month passed largely uneventfully, except that Zog Blackblade, our (NPC) cook, has begun complaining about a shortage of pumpkins, and Balasar, on his evening walks, has noticed that several of the drunkards he usually sees haven’t been hanging around anymore. In addition, some of us have heard a kind of moaning sound coming from down in the sewers, and the carpenters repaired our tavern.
+
+During the third week of the third month, Grixis sneaked into Thol’s room at night to inspect the Staff of Fire. When he opened the door, smoke poured out of it, as the staff was still glowing and smoking. As Grixis inspected the staff, he saw a vision of the plane of fire, and he thought it best to take the staff somewhere it could be more ventilated. At Penub’s suggestion, they instead took the staff into the cave in our basement, where the smoke from the staff should be diluted fairly well in such a large cavern, and it’ll have some distance from the tavern in case it explodes. Penub explained to Thol that the staff had been moved for the sake of ventilation, but didn’t tell Thol where the staff had been moved to.
+
+That same night, Balasar, Orel, and Star had gone out separately to investigate the appearance of the mysterious lights and the disappearance of the drunkards. While she was out there, Star saw a moving pumpkin lurking in an alley, but it ran away from her, and she gave chase.
+
+---
+[Back](./)
