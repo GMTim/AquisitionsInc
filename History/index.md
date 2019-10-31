@@ -1,4 +1,5 @@
 # Histories
+- [Session 9](Session009.md) October 23 2019
 - [Session 8](Session008.md) October 16 2019
 - [Session 7](Session007.md) October 09 2019
 - [Session 6](Session006.md) September 25 2019
