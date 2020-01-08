@@ -1,4 +1,7 @@
 # Histories
+- [Mid-Winter Holiday](MidWinterHoliday.md) December 18 2019
+- [Session 11](Session011.md) November 13 2019
+- [Session 10](Session010.md) November 06 2019
 - [Session 9](Session009.md) October 23 2019
 - [Session 8](Session008.md) October 16 2019
 - [Session 7](Session007.md) October 09 2019
