@@ -16,7 +16,7 @@
 
 | Hit Points | Hit Dice | Armor Class |
 |:--|:--|:--|
-| 18 | 1d10 | 15 |
+| 21 | 3d10 | 15 |
 
 ### Proficiencies
 #### Languages:
