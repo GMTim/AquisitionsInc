@@ -31,5 +31,8 @@
 - Oral uses an unusual arcane focus, a gold harmonica. It’s said to always play music when Oral casts a spell. Even if he isn’t playing it!
 - Oral has a weird side effect when he uses his magic. After casting a spell, his fingernails grow out into gnarled talons. After about 10 minutes or if he touches something they fall off.
 
+### Magic Items:
+- [Ring Of Warmth](../MagicItems/RingOfWarmth.md)
+
 ---
 [Back](./)
