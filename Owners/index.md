@@ -1,6 +1,7 @@
 # Owners
 - [Balasar Myastan](BalasarMyastan.md) - Owner
 - [Burke](Burke.md) - [Documancer](../Documents/Documancer.pdf)
+- [Galvain](Galvain.md) - Owner
 - [Grixis](Grixis.md) - Owner
 - [Milo Goodbottom](MiloGoodbottom.md) - [Cartographer](../Documents/Cartographer.pdf)
 - [Orel Marsk](OrelMarsk.md) - [Hoardsperson](../Documents/Hoardsperson.pdf)
