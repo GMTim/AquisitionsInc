@@ -3,6 +3,7 @@
 - [Burke](Burke.md) - [Documancer](../Documents/Documancer.pdf)
 - [Galvain](Galvain.md) - Owner
 - [Grixis](Grixis.md) - Owner
+- [Johannus](Johannus.md) - Owner
 - [Milo Goodbottom](MiloGoodbottom.md) - [Cartographer](../Documents/Cartographer.pdf)
 - [Orel Marsk](OrelMarsk.md) - [Hoardsperson](../Documents/Hoardsperson.pdf)
 - [Penub of Yulan](PenubOfYulan.md) - [Loremonger](../Documents/Loremonger.pdf)
@@ -11,7 +12,6 @@
 ### On Extended Leave
 _Note_: Acquisitions Incorporated values its employees, and will on occasion allow participating franchise owners take extended leaves of absence. This leave may be granted for any number of personal reasons, and is in no way reflective on Acquisitions Incorporated. Rumors of madness and other work related maladies are unsubstantiated, and will not be tolerated.
 
-- [Johannus](Johannus.md) - Owner
 - [Lyaka](Lyaka.md) - Owner
 
 ### On Extra Extended Leave
