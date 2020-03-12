@@ -1,4 +1,7 @@
 # Histories
+- [Session 15](Session015.md) March 11th 2020
+- [Session 14](Session014.md) February 19th 2020
+- [Session 13](Session013.md) February 12th 2020
 - [Session 12](Session012.md) January 15th 2020
 - [Mid-Winter Holiday](MidWinterHoliday.md) December 18 2019
 - [Session 11](Session011.md) November 13 2019
