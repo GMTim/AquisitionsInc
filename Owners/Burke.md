@@ -36,5 +36,8 @@
 ### Magic Items:
 - [Rapier Of Life Stealing](../MagicItems/RapierOfLifeStealing.md)
 
+### File
+- [PDF](https://drive.google.com/file/d/1PPWL_Mf2e2X9WmSwG6ARpI9H1a6W70N1)
+
 ---
 [Back](./)
