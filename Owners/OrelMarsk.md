@@ -34,5 +34,8 @@
 ### Magic Items:
 - [Ring Of Warmth](../MagicItems/RingOfWarmth.md)
 
+### File
+- [PDF](https://drive.google.com/file/d/1lONZp03BLzDl7u8KKVlk_66Q8pbgizZI)
+
 ---
 [Back](./)

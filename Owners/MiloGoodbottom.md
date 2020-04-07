@@ -34,5 +34,8 @@
 - Milo has found a large copse of trees inhabited by tree sloths, he now uses it as his sanctuary.
 - Milo has taken in a feral cat who thinks it’s much tougher then it is. He named it [Shadow](../Companions/Shadow.md).
 
+### File
+- [PDF](https://drive.google.com/file/d/1DaV6_9OhDY6Yrh3hfP15PLZNVDwB6Xkh/)
+
 ---
 [Back](./)

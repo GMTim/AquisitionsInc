@@ -30,5 +30,8 @@
 ### Magic Items:
 - [Staff Of Fire](../MagicItems/StaffOfFire.md)
 
+### File
+- [PDF](https://drive.google.com/file/d/1lu7VydEkjxW_LJi_YsejaKQg6HxD102_)
+
 ---
 [Back](./)

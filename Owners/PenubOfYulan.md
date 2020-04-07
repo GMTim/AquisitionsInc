@@ -34,5 +34,8 @@
 ### Magic Items:
 - [Driftglobe](../MagicItems/Driftglobe.md)
 
+### File
+- [PDF](https://drive.google.com/file/d/1OWe3XKHh3xW7HvfZaUZBZ6OmZn1yBOsG)
+
 ---
 [Back](./)

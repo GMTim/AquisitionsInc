@@ -22,5 +22,8 @@
 #### Languages:
 - Common
 
+### File
+- [PDF](https://drive.google.com/file/d/1z_m1guqVxZ7irxHsga5f-jDeCLkXpfXm)
+
 ---
 [Back](./)
