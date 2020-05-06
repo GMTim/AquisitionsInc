@@ -1,4 +1,5 @@
 # Histories
+- [Session 16](Session016.md) April 22th 2020
 - [Session 15](Session015.md) March 11th 2020
 - [Session 14](Session014.md) February 19th 2020
 - [Session 13](Session013.md) February 12th 2020
